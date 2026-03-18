@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#343a40" />
+      <stop offset="100%" stop-color="#212529" />
+    </radialGradient>
+  </defs>
+  <rect width="300" height="450" fill="url(#bg)" />
+  <g transform="translate(150, 210)" opacity="0.3">
+    <!-- Film Reel Icon -->
+    <path fill="#e9ecef" d="M0,-40 C22,-40 40,-22 40,0 C40,22 22,40 0,40 C-22,40 -40,22 -40,0 C-40,-22 -22,-40 0,-40 Z M0,-32 C-17.6,-32 -32,-17.6 -32,0 C-32,17.6 -17.6,32 0,32 C17.6,32 32,17.6 32,0 C32,-17.6 17.6,-32 0,-32 Z" />
+    <circle cx="0" cy="0" r="12" fill="#e9ecef" />
+    <circle cx="-20" cy="0" r="4" fill="#e9ecef" />
+    <circle cx="20" cy="0" r="4" fill="#e9ecef" />
+    <circle cx="0" cy="-20" r="4" fill="#e9ecef" />
+    <circle cx="0" cy="20" r="4" fill="#e9ecef" />
+    <circle cx="-14" cy="-14" r="4" fill="#e9ecef" />
+    <circle cx="14" cy="14" r="4" fill="#e9ecef" />
+    <circle cx="-14" cy="14" r="4" fill="#e9ecef" />
+    <circle cx="14" cy="-14" r="4" fill="#e9ecef" />
+  </g>
+</svg>
